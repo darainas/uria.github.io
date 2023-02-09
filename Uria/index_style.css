@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "Ubuntu";
+    src:url(asset/Ubuntu-Regular.ttf) format('truetype');
+   } 
+
+   h6 {
+    font-size: 3em;
+    font-family: 'Ubuntu', sans-serif;
+   }
+   
+   h5 {
+    font-size: 8em;
+    font-family: 'Ubuntu', sans-serif;
+   }
+   
